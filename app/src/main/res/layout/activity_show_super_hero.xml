@@ -56,14 +56,20 @@
                     android:layout_height="wrap_content"
                     android:layout_marginStart="16dp"
                     android:layout_marginLeft="16dp"
-                    android:text="" />
+                    android:layout_marginTop="16dp"
+                    android:fontFamily="@font/aladin"
+                    android:text=""
+                    android:textSize="18sp" />
 
                 <TextView
                     android:id="@+id/txtAliases"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="16dp"
-                    android:layout_marginLeft="16dp" />
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="16dp"
+                    android:fontFamily="@font/aladin"
+                    android:textSize="18sp" />
 
                 <TextView
                     android:id="@+id/txtWork"
@@ -71,14 +77,20 @@
                     android:layout_height="wrap_content"
                     android:layout_marginStart="16dp"
                     android:layout_marginLeft="16dp"
-                    android:text="" />
+                    android:layout_marginTop="16dp"
+                    android:fontFamily="@font/aladin"
+                    android:text=""
+                    android:textSize="18sp" />
 
                 <TextView
                     android:id="@+id/txtPowerstats"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="16dp"
-                    android:layout_marginLeft="16dp" />
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="16dp"
+                    android:fontFamily="@font/aladin"
+                    android:textSize="18sp" />
 
                 <TextView
                     android:id="@+id/txtWeight"
@@ -86,14 +98,18 @@
                     android:layout_height="wrap_content"
                     android:layout_marginStart="16dp"
                     android:layout_marginLeft="16dp"
-                    android:text="" />
+                    android:layout_marginTop="8dp"
+                    android:fontFamily="@font/aladin"
+                    android:text=""
+                    android:textSize="18sp" />
 
                 <TextView
                     android:id="@+id/txtFullName"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="16dp"
-                    android:layout_marginLeft="16dp" />
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="8dp" />
             </LinearLayout>
         </ScrollView>
     </FrameLayout>

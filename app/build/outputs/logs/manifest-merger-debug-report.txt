@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Terri\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Terri\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Terri\.gradle\caches\transforms-2\files-2.1\7601891bd1b1a9f20850d7bb3f159342\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
@@ -27,20 +27,20 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Terri\.gradle\ca
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Terri\.gradle\caches\transforms-2\files-2.1\63647da4654da12a6f2785cfbbad8123\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Terri\.gradle\caches\transforms-2\files-2.1\733fc1d306cee2c05d3e1fb0b7527020\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Terri\.gradle\caches\transforms-2\files-2.1\fdd65d8b6066fd289a68b42931dc03a2\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml
 		INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml
-		ADDED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml
-		ADDED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:2:11-69
@@ -49,7 +49,7 @@ ADDED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:5:5
 	android:name
 		ADDED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:7:5-22:19
+ADDED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:7:5-26:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Terri\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Terri\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Terri\.gradle\caches\transforms-2\files-2.1\7601891bd1b1a9f20850d7bb3f159342\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
@@ -90,6 +90,12 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
 		ADDED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:19:27-74
+meta-data#preloaded_fonts
+ADDED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:23:9-25:57
+	android:resource
+		ADDED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:25:13-54
+	android:name
+		ADDED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:24:13-43
 uses-sdk
 INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml
