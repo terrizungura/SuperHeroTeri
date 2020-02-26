@@ -1,0 +1,63 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tererai.superheroteri"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:5:5-83
+11-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:7:5-22:19
+14        android:allowBackup="true"
+14-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.1.0] C:\Users\Terri\.gradle\caches\transforms-2\files-2.1\e9dab9c67c1ee3668e0bbf86c6d8cbd8\core-1.1.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:13:9-40
+23        <activity android:name="com.tererai.superheroteri.Controller.ShowSuperHeroActivity" />
+23-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:14:9-79
+23-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:14:19-67
+24        <activity android:name="com.tererai.superheroteri.Controller.SearchSuperHeroActivity" >
+24-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:15:9-21:20
+24-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:15:19-69
+25            <intent-filter>
+25-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:16:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:17:17-69
+26-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:17:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:19:17-77
+28-->C:\AndroidProjects\SuperHeroTeri\app\src\main\AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31
+32        <provider
+32-->[com.squareup.picasso:picasso:2.71828] C:\Users\Terri\.gradle\caches\transforms-2\files-2.1\7601891bd1b1a9f20850d7bb3f159342\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+33            android:name="com.squareup.picasso.PicassoProvider"
+33-->[com.squareup.picasso:picasso:2.71828] C:\Users\Terri\.gradle\caches\transforms-2\files-2.1\7601891bd1b1a9f20850d7bb3f159342\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+34            android:authorities="com.tererai.superheroteri.com.squareup.picasso"
+34-->[com.squareup.picasso:picasso:2.71828] C:\Users\Terri\.gradle\caches\transforms-2\files-2.1\7601891bd1b1a9f20850d7bb3f159342\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+35            android:exported="false" />
+35-->[com.squareup.picasso:picasso:2.71828] C:\Users\Terri\.gradle\caches\transforms-2\files-2.1\7601891bd1b1a9f20850d7bb3f159342\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+36    </application>
+37
+38</manifest>
